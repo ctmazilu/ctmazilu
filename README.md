@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Christina Mazilu
-- 👀 I’m interested in programming python
-- 🌱 I’m currently studying undergraduate computer science
-- 💞️ I’m looking to collaborate on ... to be decided 
-- 📫 How to reach me ...
+- 👋 Hi, My name is Christina Mazilu
+- 👀 I am interested in Computational Social Science
+- 🌱 I am doing a Master of Arts in Sociology at The University of Aberdeen
+- 💞️ I’m looking to collaborate on Data Science projects related to Social Science, specifically Sociology of Religion, Environmental Sociology.
+- 📫 Find me on [Linktin] (https://www.linkedin.com/in/christina-mazilu-2a8820205/) or (Email) [mailto:chriswork@mazilu.net]
 
 <!---
 ctmazilu/ctmazilu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
